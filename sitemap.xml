@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>jspaezp.github.io/tags/about/</loc>
+    <loc>https://jspaezp.github.io/categories/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/categories/about/</loc>
+    <loc>https://jspaezp.github.io/tags/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/archives/</loc>
+    <loc>https://jspaezp.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jspaezp.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/categories/</loc>
+    <loc>https://jspaezp.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/tags/cv/</loc>
+    <loc>https://jspaezp.github.io/tags/cv/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>jspaezp.github.io/page/</loc>
+    <loc>https://jspaezp.github.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/</loc>
+    <loc>https://jspaezp.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>jspaezp.github.io/tags/</loc>
+    <loc>https://jspaezp.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
